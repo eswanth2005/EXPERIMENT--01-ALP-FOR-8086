@@ -1,10 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : ESWANTH KUMAR K
+### Name : ESWANTH KUMAR K
 
-# Roll no : 212223040046
-
-# Date of experiment : 30-07-2026
-
+### Roll no : 212223040046
+### Date of experiment : 30-07-2026
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
